@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaishaManarat
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Cryptography and other fields of CyberSecurity
-- 💞️ I’m looking to collaborate on ... research on fields of CyberSecurity sepcially on Cryptography and forensic
+- 💞️ I’m looking to collaborate on ... play CTF challenges/research on fields of CyberSecurity sepcially on Cryptography and forensic
 - 📫 How to reach me ... email: maishamanarat@gmail.com
 
 <!---
