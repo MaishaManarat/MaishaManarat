@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning about CyberSecurity specially focusing on web application penetration testing and malware analysis
 - 💞️ I’m looking to collaborate on ... play CTF challenges/research on fields of CyberSecurity
-- 📫 How to reach me ... email: maishamanarat@gmail.com
+- 📫 How to reach me ... 
 
 <!---
 MaishaManarat/MaishaManarat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
