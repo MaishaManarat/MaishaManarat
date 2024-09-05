@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaishaManarat
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning about CyberSecurity specially focusing on web application penetration testing and malware analysis
-- 💞️ I’m looking to collaborate on ... play CTF challenges/research on fields of CyberSecurity
+- 💞️ I’m looking to collaborate on ... Bug Bounty/research in CyberSecurity
 - 📫 How to reach me ... 
 
 <!---
