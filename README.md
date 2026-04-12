@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaishaManarat
 - 👀 I’m interested in Offensive Security
-- 🌱 I’m currently learning about CyberSecurity particularly focusing on offensive security and malware analysis
+- 🌱 I’m currently learning about CyberSecurity particularly focusing on offensive security 
 - 💞️ I’m looking to collaborate on ... research in Offensive Security
 - 📫 How to reach me ... dm me on Linked In (https://www.linkedin.com/in/maisha-manarat-a26968147/) 
 
